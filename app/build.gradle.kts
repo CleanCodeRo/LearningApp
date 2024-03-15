@@ -3,15 +3,15 @@ plugins {
 }
 
 android {
-    namespace = "ro.codeclean.learningapp"
+    namespace = "com.cleancode.learningapp"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "ro.codeclean.learningapp"
+        applicationId = "com.cleancode.learningapp"
         minSdk = 24
         targetSdk = 34
-        versionCode = 1
-        versionName = "1.0"
+        versionCode = 5
+        versionName = "1.4"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
