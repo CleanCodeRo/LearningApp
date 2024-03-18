@@ -1,4 +1,4 @@
-package com.cleancode.learningapp;
+package com.cleancode.learnapp;
 
 import androidx.appcompat.app.AppCompatActivity;
 

@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "com.cleancode.learningapp"
+    namespace = "com.cleancode.learnapp"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.cleancode.learningapp"
+        applicationId = "com.cleancode.learnapp"
         minSdk = 24
         targetSdk = 34
         versionCode = 5

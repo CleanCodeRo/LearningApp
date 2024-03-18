@@ -12,8 +12,8 @@
         android:layout_height="wrap_content"
         android:layout_above="@+id/button"
         android:layout_alignParentEnd="true"
-        android:layout_marginEnd="177dp"
-        android:layout_marginBottom="127dp"
+        android:layout_marginEnd="166dp"
+        android:layout_marginBottom="129dp"
         android:text="Hello World!"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -22,12 +22,12 @@
 
     <Button
         android:id="@+id/button"
-        android:layout_width="123dp"
-        android:layout_height="110dp"
+        android:layout_width="254dp"
+        android:layout_height="63dp"
         android:layout_alignParentEnd="true"
         android:layout_alignParentBottom="true"
-        android:layout_marginEnd="163dp"
-        android:layout_marginBottom="149dp"
+        android:layout_marginEnd="78dp"
+        android:layout_marginBottom="79dp"
 
         android:onClick="OnBtnClick"
         android:text="@string/press_me" />
